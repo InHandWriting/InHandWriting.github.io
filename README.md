@@ -12,8 +12,16 @@ h1,h2,h3 {
 }
 </style>
 
+<style>
+.responsive-img {
+  width: 80%;
+  height: auto;
+  max-width: 800px;
+}
+</style>
+
 <div style="text-align:center">
-  <img src="./Figures/Overall pipeline.jpg" alt="Overall pipeline">
+  <img src="./Figures/Overall pipeline.jpg" alt="Overall pipeline" class="responsive-img">
 </div>
 
 ## Abstract
