@@ -30,6 +30,10 @@ h1,h2,h3 {
 Dexterous in-hand manipulation, especially involving interactions between grasped objects and external environments, remains a formidable challenge in robotics. This study tackles the complexities of in-hand manipulation under extrinsic contact through a representative three-finger handwriting task. We propose a hybrid arm-hand coordination framework that combines reinforcement learning with compliance control, offering both flexibility and robustness. Leveraging tactile sensors embedded in each finger, our tactile-driven estimation model dynamically predicts in-hand object pose and external contact, eliminating the need for fixed contact states. The proposed framework is first validated in simulation, where it successfully executes diverse writing tasks with accurate contact sensing. Sim-to-Real transfer is achieved through systematic calibration of finger joints and tactile sensors, supported by domain randomization. Realworld experiments further demonstrate the system’s adaptability to writing tools with varying physical properties—such as radius, length, mass, and friction—while maintaining stability across different trajectories. This work advances robotic manipulation capabilities in unstructured environments.
 </p>
 
+## Appendices
+
+For more details about this study, please refer to the [appendices](./Appendices/Appendices.pdf).
+
 ## Videos
 
 <p class="justified">
@@ -78,10 +82,4 @@ This video showcases the trained trajectories in simulation, including circles, 
 This video presents the framework’s generalization to unseen trajectories in simulation, specifically showcasing various digits.
 </p>
 
-<<<<<<< Updated upstream
-## Appendices
-
-For more details about this study, please refer to the [appendices](./Appendices/Appendices.pdf).
-=======
 <link rel="stylesheet" href="/assets/css/custom.css">
->>>>>>> Stashed changes
