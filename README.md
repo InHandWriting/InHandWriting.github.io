@@ -78,6 +78,10 @@ This video showcases the trained trajectories in simulation, including circles, 
 This video presents the framework’s generalization to unseen trajectories in simulation, specifically showcasing various digits.
 </p>
 
+<<<<<<< Updated upstream
 ## Appendices
 
 For more details about this study, please refer to the [appendices](./Appendices/Appendices.pdf).
+=======
+<link rel="stylesheet" href="/assets/css/custom.css">
+>>>>>>> Stashed changes

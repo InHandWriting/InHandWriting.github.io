@@ -1,0 +1,8 @@
+/* 隐藏顶部特定链接 */
+a[href="https://inhandwriting.github.io/"] {
+  display: none !important;
+}
+/* 或隐藏父容器（根据实际 DOM 结构调整） */
+.header-link {
+  display: none;
+}
